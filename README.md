@@ -27,5 +27,5 @@
 </p>
 
   ```bash
-/bin/bash steup_script.sh
+/bin/bash setup_script.sh
 ```
