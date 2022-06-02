@@ -22,3 +22,10 @@
   </ul>
   </p>
 
+<p>
+  After clone the repository run the command:
+</p>
+
+  ```bash
+/bin/bash steup_script.sh
+```
